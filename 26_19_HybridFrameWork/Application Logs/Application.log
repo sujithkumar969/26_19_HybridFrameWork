@@ -1,0 +1,73 @@
+01-24-2019 08:24:46  INFO [main] BaseTest:11 - ****************************************************************************************
+01-24-2019 08:24:46  INFO [main] BaseTest:12 - ****************************************************************************************
+01-24-2019 08:24:46  INFO [main] BaseTest:13 - $$$$$$$$$$$$$$$$$$$$$                 testLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+01-24-2019 08:24:46  INFO [main] BaseTest:14 - ****************************************************************************************
+01-24-2019 08:24:46  INFO [main] BaseTest:15 - ****************************************************************************************
+01-24-2019 08:24:47  INFO [main] BaseTest:48 - Entered the user name
+01-24-2019 08:24:47  INFO [main] BaseTest:48 - Entered the password
+01-24-2019 08:24:49  INFO [main] BaseTest:48 - Clicked on login button
+01-24-2019 08:24:49  INFO [main] BaseTest:48 - Dashboard text is validated : PASSED
+01-24-2019 08:24:49  INFO [main] BaseTest:48 - clicked on welcome link
+01-24-2019 08:24:51  INFO [main] BaseTest:48 - clicked on logout link
+01-24-2019 08:24:51  INFO [main] BaseTest:24 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+01-24-2019 08:24:51  INFO [main] BaseTest:25 - X
+01-24-2019 08:24:51  INFO [main] BaseTest:26 - X
+01-24-2019 08:24:51  INFO [main] BaseTest:27 - X
+01-24-2019 08:24:51  INFO [main] BaseTest:28 - X
+01-24-2019 08:24:51  INFO [main] BaseTest:43 - Test is Skipped
+01-24-2019 08:24:56  INFO [main] BaseTest:11 - ****************************************************************************************
+01-24-2019 08:24:56  INFO [main] BaseTest:12 - ****************************************************************************************
+01-24-2019 08:24:56  INFO [main] BaseTest:13 - $$$$$$$$$$$$$$$$$$$$$                 testLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+01-24-2019 08:24:56  INFO [main] BaseTest:14 - ****************************************************************************************
+01-24-2019 08:24:56  INFO [main] BaseTest:15 - ****************************************************************************************
+01-24-2019 08:24:56  INFO [main] BaseTest:48 - Entered the user name
+01-24-2019 08:24:56  INFO [main] BaseTest:48 - Entered the password
+01-24-2019 08:24:59  INFO [main] BaseTest:48 - Clicked on login button
+01-24-2019 08:24:59  INFO [main] BaseTest:48 - Dashboard text is validated : PASSED
+01-24-2019 08:24:59  INFO [main] BaseTest:48 - clicked on welcome link
+01-24-2019 08:25:01  INFO [main] BaseTest:48 - clicked on logout link
+01-24-2019 08:25:01  INFO [main] BaseTest:24 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+01-24-2019 08:25:01  INFO [main] BaseTest:25 - X
+01-24-2019 08:25:01  INFO [main] BaseTest:26 - X
+01-24-2019 08:25:01  INFO [main] BaseTest:27 - X
+01-24-2019 08:25:01  INFO [main] BaseTest:28 - X
+01-24-2019 08:25:01  INFO [main] BaseTest:43 - Test is Skipped
+01-24-2019 08:25:07  INFO [main] BaseTest:11 - ****************************************************************************************
+01-24-2019 08:25:07  INFO [main] BaseTest:12 - ****************************************************************************************
+01-24-2019 08:25:07  INFO [main] BaseTest:13 - $$$$$$$$$$$$$$$$$$$$$                 testLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+01-24-2019 08:25:07  INFO [main] BaseTest:14 - ****************************************************************************************
+01-24-2019 08:25:07  INFO [main] BaseTest:15 - ****************************************************************************************
+01-24-2019 08:25:07  INFO [main] BaseTest:48 - Entered the user name
+01-24-2019 08:25:07  INFO [main] BaseTest:48 - Entered the password
+01-24-2019 08:25:09  INFO [main] BaseTest:48 - Clicked on login button
+01-24-2019 08:25:10  INFO [main] BaseTest:48 - Dashboard text is validated : PASSED
+01-24-2019 08:25:10  INFO [main] BaseTest:48 - clicked on welcome link
+01-24-2019 08:25:11  INFO [main] BaseTest:48 - clicked on logout link
+01-24-2019 08:25:11  INFO [main] BaseTest:24 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+01-24-2019 08:25:11  INFO [main] BaseTest:25 - X
+01-24-2019 08:25:11  INFO [main] BaseTest:26 - X
+01-24-2019 08:25:11  INFO [main] BaseTest:27 - X
+01-24-2019 08:25:11  INFO [main] BaseTest:28 - X
+01-24-2019 08:25:11  INFO [main] BaseTest:43 - Test is Skipped
+01-24-2019 08:25:16  INFO [main] BaseTest:11 - ****************************************************************************************
+01-24-2019 08:25:16  INFO [main] BaseTest:12 - ****************************************************************************************
+01-24-2019 08:25:16  INFO [main] BaseTest:13 - $$$$$$$$$$$$$$$$$$$$$                 testLogin       $$$$$$$$$$$$$$$$$$$$$$$$$
+01-24-2019 08:25:16  INFO [main] BaseTest:14 - ****************************************************************************************
+01-24-2019 08:25:16  INFO [main] BaseTest:15 - ****************************************************************************************
+01-24-2019 08:25:16  INFO [main] BaseTest:48 - Entered the user name
+01-24-2019 08:25:17  INFO [main] BaseTest:48 - Entered the password
+01-24-2019 08:25:19  INFO [main] BaseTest:48 - Clicked on login button
+01-24-2019 08:25:19  INFO [main] BaseTest:48 - Dashboard text is validated : PASSED
+01-24-2019 08:25:20  INFO [main] BaseTest:48 - clicked on welcome link
+01-24-2019 08:25:21  INFO [main] BaseTest:48 - clicked on logout link
+01-24-2019 08:25:22  INFO [main] BaseTest:24 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+01-24-2019 08:25:22  INFO [main] BaseTest:25 - X
+01-24-2019 08:25:22  INFO [main] BaseTest:26 - X
+01-24-2019 08:25:22  INFO [main] BaseTest:27 - X
+01-24-2019 08:25:22  INFO [main] BaseTest:28 - X
+01-24-2019 08:25:22  INFO [main] BaseTest:38 - Test is Failed
+01-24-2019 08:25:22 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+01-24-2019 08:25:22 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+01-24-2019 08:25:22 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+01-24-2019 08:25:22 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+01-24-2019 08:25:22 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/S%20SUJITH%20KUMAR/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
